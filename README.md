@@ -1,5 +1,5 @@
-<image  src = 'C:/Users/WinUser/Pictures/a.png'>
-  
+![a](https://user-images.githubusercontent.com/117628817/200505918-10797321-4c17-4103-8298-c22412ce5c93.png)
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
   
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JULLEONG)](https://github.com/JULLEONG)
@@ -28,7 +28,7 @@
 ~~취소선~~
 
 > 인용구
-* 열공
+* 가나다라
 
 [네이버](naver.com)
 
