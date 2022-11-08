@@ -1,4 +1,4 @@
-<image  src = 'C:/Users/WinUser/Pictures/화면 캡처 2022-11-08 162717'>
+<image  src = 'C:/Users/WinUser/Pictures/a.png'>
   
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
   
