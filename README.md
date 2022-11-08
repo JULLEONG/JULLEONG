@@ -1,16 +1,27 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JULLEONG)](https://github.com/JULLEONG)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JULLEONG)](https://github.com/JULLEONG/github-readme-stats)
+
+
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+#### Hi there 👋
 
-<!--
-**JULLEONG/JULLEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**두껍게**
+*기울임*
+~~취소선~~
 
-Here are some ideas to get you started:
+> 인용구
+* 열공
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[네이버](naver.com)
+
+```
+print('가나다라')
+```
+:smirk:
