@@ -25,7 +25,7 @@
 > 인용구
 * 가나다라
 
-[블로](https://julleong.tistory.com/)
+[Blog](https://julleong.tistory.com/)
 
 ```
 print('가나다라')
