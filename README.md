@@ -19,12 +19,6 @@
 
 # Hi there 👋
 
-**두껍게**
-*기울임*
-~~취소선~~
-> 인용구
-* 가나다라
-
 [Blog](https://julleong.tistory.com/)
 
 ```
