@@ -1,13 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
-[Blog](https://julleong.tistory.com/)
 # Hi there 👋:smirk:
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
+
+[Blog](https://julleong.tistory.com/)
+
+
 
 
 ![a](https://user-images.githubusercontent.com/117628817/200505918-10797321-4c17-4103-8298-c22412ce5c93.png)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JULLEONG)](https://github.com/JULLEONG)
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JULLEONG&show_icons=true&theme=radical)](https://github.com/JULLEONG)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JULLEONG)](https://github.com/JULLEONG/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JULLEONG &layout=compact)(https://github.com/JULLEONG/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
