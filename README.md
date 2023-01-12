@@ -1,6 +1,6 @@
-![a](https://user-images.githubusercontent.com/117628817/200505918-10797321-4c17-4103-8298-c22412ce5c93.png)
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=데이터%20분석가&fontSize=90)
+
+![a](https://user-images.githubusercontent.com/117628817/200505918-10797321-4c17-4103-8298-c22412ce5c93.png)
   
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JULLEONG)](https://github.com/JULLEONG)
   
