@@ -18,19 +18,14 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-#### Hi there 👋
 
 **두껍게**
 *기울임*
 ~~취소선~~
-
 > 인용구
 * 가나다라
 
-[네이버](naver.com)
+[블로](https://julleong.tistory.com/)
 
 ```
 print('가나다라')
